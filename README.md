@@ -5,6 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 LIVE DEMO:
 https://breaking-bad-in.herokuapp.com/
 
+Documentation: 
+https://breakingbadapi.com/documentation
+
 ## Available Scripts
 
 In the project directory, you can run:
